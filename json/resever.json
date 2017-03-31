@@ -1,0 +1,23 @@
+[
+ {
+ "userId":"100101",
+ "userImg":"imgs/10002.jpg",
+ "userMage":"金立M6 plus",
+ "userMoney":"2172",
+ "userPt":"--",
+ "userKert":"有库存",
+ "userType":"容量 3GB/64GB",
+ "userColor":"金色",
+ "userCount":"1"
+},{
+ "userId":"100102",
+ "userImg":"imgs/10001.jpg",
+ "userMage":"金立M6 plus",
+ "userMoney":"2172",
+ "userPt":"--",
+ "userKert":"有库存",
+ "userType":"容量 3GB/64GB",
+ "userColor":"金色",
+ "userCount":"1"
+}
+]

@@ -1,0 +1,33 @@
+/**
+ * Created by Administrator on 2016/11/16.
+ */
+[
+    {
+        dataImg:"imgs/C700.jpg",
+         dataName:"C700"
+    },
+    {
+        dataImg:"imgs/C605.jpg",
+        dataName:"C605"
+    },
+    {
+        dataImg:"imgs/C620.jpg",
+        dataName:"C620"
+    },
+    {
+        dataImg:"imgs/C800.jpg",
+        dataName:"C800"
+    },
+    {
+        dataImg:"imgs/E6.jpg",
+        dataName:"E6"
+    },
+    {
+        dataImg:"imgs/E3T.jpg",
+        dataName:"E3T"
+    },
+    {
+        dataImg:"imgs/E5.jpg",
+        dataName:"E5"
+    }
+]
